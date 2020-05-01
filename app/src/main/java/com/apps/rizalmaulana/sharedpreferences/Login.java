@@ -1,5 +1,14 @@
 package com.apps.rizalmaulana.sharedpreferences;
 
+/** 
+Rizal Maulana 
+10117191
+IF5
+
+waktu pengerjaan 
+28/04/2020
+membuat link shared
+*/
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
