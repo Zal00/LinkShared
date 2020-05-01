@@ -1,0 +1,2 @@
+rootProject.name='tugas3sharedpreference'
+include ':app'
